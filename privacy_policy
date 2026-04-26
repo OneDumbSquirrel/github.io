@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    a {
+      color: #0b57d0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective date:</strong> April 25, 2026</p>
+
+  <p>
+    This Privacy Policy explains how <strong>Tyr House Financial Workbook</strong> collects, uses,
+    and protects information when you use this application or related services.
+  </p>
+
+  <h2>Information We Collect</h2>
+  <p>
+    If you sign in with Google or grant Google account permissions, we may access
+    basic account information and any Google user data that you explicitly authorize
+    through the permissions requested by the application.
+  </p>
+
+  <h2>How We Use Information</h2>
+  <p>
+    We use this information only to provide and improve the functionality of
+    <strong>YOUR_APP_NAME</strong>. We do not use Google user data for advertising
+    or sell personal information to third parties.
+  </p>
+
+  <h2>Data Sharing</h2>
+  <p>
+    We do not share your personal information or Google user data with third parties,
+    except when required by law or when necessary to operate the service.
+  </p>
+
+  <h2>Data Storage and Retention</h2>
+  <p>
+    We retain data only for as long as necessary to operate the service, comply with
+    legal obligations, resolve disputes, and enforce our agreements.
+  </p>
+
+  <h2>Your Choices</h2>
+  <p>
+    You may revoke the application's access to your Google account at any time through
+    your Google account permissions settings. You may also contact us to request data
+    deletion or ask questions about your information.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    If you have any questions or requests regarding this Privacy Policy, contact:
+    <a href="mailto:smartsquirrel007@protonmail.com">YOUR_EMAIL@example.com</a>
+  </p>
+</body>
+</html>
